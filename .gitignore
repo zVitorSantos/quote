@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*__pycache__/
+dist/
+build/
+*.spec
+installer.iss
+.env
+pedidos.db
+.venv/
+QuotesInstaller.iss

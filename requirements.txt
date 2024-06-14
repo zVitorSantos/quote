@@ -1,0 +1,8 @@
+PyQt5
+requests
+packaging
+fuzzywuzzy
+beautifulsoup4
+PyPDF2
+pytest
+python-dotenv
